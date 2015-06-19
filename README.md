@@ -112,3 +112,11 @@ Tip: active godmode to avoid falldamage after teleportation (god())
 * addtreasurehuntitems
 * addcharacterdecorations
 *  and many more... (You can find more in `cooked.redscripts` or `cookedfinal.redscripts`)
+spawnt(*) for the following
+01-09 (Witcher Hunters) 
+61, 63, 65  (Bandits)
+64, 68, 70, 73, 75, 80  (Novigrad Guards)
+67, 77 (Thugs)
+83, 85-90, 92-99 (Redanian Soldiers)
+100-104, 106-126, 128-133 (Skellige Bandits)
+134-135, 137-140  (Wild Hunt Warriors)
